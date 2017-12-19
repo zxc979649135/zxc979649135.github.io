@@ -225,7 +225,7 @@ body {
 .swiper-slide.sa .Three{
     font-size: 7vw;
 }
-.swiper-slide.sa .Three_zi{
+.swiper-slide.sa .Threezi{
     background:rgba(0,0,0,0.2) ;
     position: absolute;
     width: 90%;
@@ -234,7 +234,7 @@ body {
     top: 15%;
     margin-left: 5%;
 }
-.swiper-slide.sa .Three_zi p{
+.swiper-slide.sa .Threezi p{
     margin-left: 4%;
     position: absolute;
 }
