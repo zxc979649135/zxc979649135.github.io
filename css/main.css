@@ -222,138 +222,29 @@ body {
     background-size: 100% 100%;
     position: relative;
 }
-.swiper-slide.sa .san{
-    width: 80%;
-    height: 60%;
-    font-size: 5vw;
-    margin-top: 5%;
-    margin: 0 auto;
-    position: relative;
+.swiper-slide.sa .Three{
+    font-size: 7vw;
 }
-.swiper-slide.sa .san1{
-    width: 28%;
-    height: 18%;
-    top:13%;
-    left: 5%;
+.swiper-slide.sa .Three_zi{
+    background:rgba(0,0,0,0.2) ;
     position: absolute;
-    background-image: url("../img/8208d8ed32524c21e2dc622b8d1fd058.png");
-    background-size: 100% 100%;
+    width: 90%;
+    height:50%;
+    color: #000;
+    top: 15%;
+    margin-left: 5%;
 }
-.swiper-slide.sa .san2{
-    width: 28%;
-    height: 18%;
-    top: 35%;
-    left: 5%;
+.swiper-slide.sa .Three_zi p{
+    margin-left: 4%;
     position: absolute;
-    background-image: url("../img/8208d8ed32524c21e2dc622b8d1fd058.png");
-    background-size: 100% 100%;
 }
-.swiper-slide.sa .san3{
-    width: 28%;
-    height: 18%;
-    top: 58%;
-    left: 5%;
+.sv{
     position: absolute;
-    background-image: url("../img/8208d8ed32524c21e2dc622b8d1fd058.png");
-    background-size: 100% 100%;
-    z-index: 1;
-}
-.swiper-slide.sa .san1 img{
-    width: 80%;
-    height: 80%;
-    position: relative;
-    left: -5%;
-    top: 4%;
-}
-.swiper-slide.sa .san2 img{
-    width: 80%;
-    height: 80%;
-    position: relative;
-    left: -5%;
-    top: 4%;
-}
-.swiper-slide.sa .san3 img{
-    width: 80%;
-    height: 80%;
-    position: relative;
-    left: -5%;
-    top: 4%;
-}
-.swiper-slide.sa .san p{
-    color: #07CFC1;
-}
-
-
-.swiper-slide.sa .sa1{
-    width: 80%;
-    height: 50%;
-    position: absolute;
-    top: 6%;
-    color:#000 ;
-}
-.swiper-slide.sa .sa1 h3{
-    left: 25%;
-    position: relative;
     top: 10%;
-}
-.swiper-slide.sa .sa1 p{
-    left: 43%;
-    position: relative;
-    width: 80%;
-    height: 50%;
-    margin-top: 0;
-    top:10%;
-    color: #000;
+    text-indent:30px;
+    text-align: left;
 }
 
-
-
-
-.swiper-slide.sa .sa2{
-    width: 80%;
-    height: 50%;
-    position: absolute;
-    top: 7%;
-    color:#000 ;
-}
-.swiper-slide.sa .sa2 h3{
-    left: 25%;
-    position: relative;
-    top: 55%;
-}
-.swiper-slide.sa .sa2 p{
-    left: 43%;
-    position: relative;
-    width: 80%;
-    height: 50%;
-    top: 55%;
-    color: #000;
-}
-
-
-
-
-
-.swiper-slide.sa .sa3{
-    width: 80%;
-    height: 50%;
-    position: absolute;
-    top: 8%;
-    color:#000 ;
-}
-.swiper-slide.sa .sa3 h3{
-    left: 25%;
-    position: relative;
-    top: 98%;
-}
-.swiper-slide.sa .sa3 p{
-    left: 43%;
-    position: relative;
-    width: 80%;
-    height: 50%;
-    top: 100%;
-    color: #000;
-}
 
 /*第四屏*/
 .swiper-slide.sd{
